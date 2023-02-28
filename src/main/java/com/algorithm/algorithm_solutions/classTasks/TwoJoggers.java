@@ -8,6 +8,7 @@ public class TwoJoggers {
     public static void main(String[] args) {
 
         System.out.println(Arrays.toString(nbrOfLapsRecursion(9,4,9,4)));
+        System.out.println(6%10);
     }
 
 //    public static int [] nbrOfLaps(int x, int y){
